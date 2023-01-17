@@ -1,0 +1,2 @@
+export const HANDLEDELETE ='HANDLEDELETE'
+export const HANDLEDONE= 'HANDLEDONE'
